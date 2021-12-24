@@ -25,3 +25,5 @@ chmod +x ./scripts/blocking_bar_control.sh
 chmod +x ./scripts/obstacle_spawn.py
 roslaunch deu_car car_test.launch
 ```
+
+-- 깃허브 & pycharm 연동 참고 사이트 : https://seong6496.tistory.com/147
